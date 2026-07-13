@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Estruturas_De_Controle": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
