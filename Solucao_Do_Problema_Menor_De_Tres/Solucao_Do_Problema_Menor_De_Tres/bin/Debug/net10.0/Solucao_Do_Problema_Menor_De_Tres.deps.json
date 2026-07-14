@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Solucao_Do_Problema_Menor_De_Tres/1.0.0": {
+        "runtime": {
+          "Solucao_Do_Problema_Menor_De_Tres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Solucao_Do_Problema_Menor_De_Tres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

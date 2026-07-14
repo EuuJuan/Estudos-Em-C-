@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Solucao_Do_Problema_Menor_De_Tres": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

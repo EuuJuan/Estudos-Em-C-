@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\bin\Debug\net10.0\Solução_Do_Problema_Retangulo.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\bin\Debug\net10.0\Solução_Do_Problema_Retangulo.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\bin\Debug\net10.0\Solução_Do_Problema_Retangulo.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\bin\Debug\net10.0\Solução_Do_Problema_Retangulo.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\bin\Debug\net10.0\Solução_Do_Problema_Retangulo.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\refint\Solução_Do_Problema_Retangulo.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\Solução_Do_Problema_Retangulo.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Retangulo\Solução_Do_Problema_Retangulo\obj\Debug\net10.0\ref\Solução_Do_Problema_Retangulo.dll
