@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Processamento_E_Casting": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

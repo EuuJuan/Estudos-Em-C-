@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net10.0\Processamento_E_Casting.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net10.0\Processamento_E_Casting.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net10.0\Processamento_E_Casting.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net10.0\Processamento_E_Casting.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\bin\Debug\net10.0\Processamento_E_Casting.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\refint\Processamento_E_Casting.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\Processamento_E_Casting.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Processamento_E_Casting\Processamento_E_Casting\obj\Debug\net10.0\ref\Processamento_E_Casting.dll
