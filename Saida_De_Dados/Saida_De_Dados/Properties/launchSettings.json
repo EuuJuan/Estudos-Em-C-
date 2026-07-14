@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Saida_De_Dados": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

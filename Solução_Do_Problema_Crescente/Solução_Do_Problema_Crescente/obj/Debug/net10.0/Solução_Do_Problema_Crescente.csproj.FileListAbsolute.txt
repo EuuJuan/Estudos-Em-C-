@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\bin\Debug\net10.0\Solução_Do_Problema_Crescente.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\bin\Debug\net10.0\Solução_Do_Problema_Crescente.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\bin\Debug\net10.0\Solução_Do_Problema_Crescente.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\bin\Debug\net10.0\Solução_Do_Problema_Crescente.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\bin\Debug\net10.0\Solução_Do_Problema_Crescente.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\refint\Solução_Do_Problema_Crescente.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\Solução_Do_Problema_Crescente.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Crescente\Solução_Do_Problema_Crescente\obj\Debug\net10.0\ref\Solução_Do_Problema_Crescente.dll

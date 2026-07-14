@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Solução_Do_Problema_Crescente": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
