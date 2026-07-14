@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\bin\Debug\net10.0\Solução_Do_Problema_Idades.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\bin\Debug\net10.0\Solução_Do_Problema_Idades.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\bin\Debug\net10.0\Solução_Do_Problema_Idades.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\bin\Debug\net10.0\Solução_Do_Problema_Idades.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\bin\Debug\net10.0\Solução_Do_Problema_Idades.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\refint\Solução_Do_Problema_Idades.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\Solução_Do_Problema_Idades.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Idades\Solução_Do_Problema_Idades\obj\Debug\net10.0\ref\Solução_Do_Problema_Idades.dll
