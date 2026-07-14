@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Tipos_De_Variaveis": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

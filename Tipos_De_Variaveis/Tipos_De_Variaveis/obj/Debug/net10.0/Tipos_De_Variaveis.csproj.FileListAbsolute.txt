@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\bin\Debug\net10.0\Tipos_De_Variaveis.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\bin\Debug\net10.0\Tipos_De_Variaveis.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\bin\Debug\net10.0\Tipos_De_Variaveis.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\bin\Debug\net10.0\Tipos_De_Variaveis.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\bin\Debug\net10.0\Tipos_De_Variaveis.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\refint\Tipos_De_Variaveis.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\Tipos_De_Variaveis.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Tipos_De_Variaveis\Tipos_De_Variaveis\obj\Debug\net10.0\ref\Tipos_De_Variaveis.dll

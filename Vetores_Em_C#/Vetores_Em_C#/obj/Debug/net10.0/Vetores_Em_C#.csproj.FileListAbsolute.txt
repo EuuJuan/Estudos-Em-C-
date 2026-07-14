@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\bin\Debug\net10.0\Vetores_Em_C#.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\bin\Debug\net10.0\Vetores_Em_C#.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\bin\Debug\net10.0\Vetores_Em_C#.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\bin\Debug\net10.0\Vetores_Em_C#.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\bin\Debug\net10.0\Vetores_Em_C#.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\refint\Vetores_Em_C#.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\Vetores_Em_C#.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Vetores_Em_C#\Vetores_Em_C#\obj\Debug\net10.0\ref\Vetores_Em_C#.dll
