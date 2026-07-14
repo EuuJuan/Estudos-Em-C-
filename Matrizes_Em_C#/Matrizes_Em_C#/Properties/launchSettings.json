@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Matrizes_Em_C#": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
