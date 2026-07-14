@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Solução_Do_Problema_Soma_Impares": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

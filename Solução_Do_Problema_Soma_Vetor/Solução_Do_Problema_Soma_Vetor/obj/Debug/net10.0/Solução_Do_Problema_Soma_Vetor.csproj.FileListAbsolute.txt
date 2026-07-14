@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\bin\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\bin\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\bin\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\bin\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\bin\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\refint\Solução_Do_Problema_Soma_Vetor.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\Solução_Do_Problema_Soma_Vetor.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Vetor\Solução_Do_Problema_Soma_Vetor\obj\Debug\net10.0\ref\Solução_Do_Problema_Soma_Vetor.dll

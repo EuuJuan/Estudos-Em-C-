@@ -1,0 +1,14 @@
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\bin\Debug\net10.0\Solução_Do_Problema_Soma_Impares.exe
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\bin\Debug\net10.0\Solução_Do_Problema_Soma_Impares.deps.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\bin\Debug\net10.0\Solução_Do_Problema_Soma_Impares.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\bin\Debug\net10.0\Solução_Do_Problema_Soma_Impares.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\bin\Debug\net10.0\Solução_Do_Problema_Soma_Impares.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\refint\Solução_Do_Problema_Soma_Impares.dll
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.pdb
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\Solução_Do_Problema_Soma_Impares.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Área de Trabalho\Projetos em C#\Projetos de C# ws-vs\Solução_Do_Problema_Soma_Impares\Solução_Do_Problema_Soma_Impares\obj\Debug\net10.0\ref\Solução_Do_Problema_Soma_Impares.dll
